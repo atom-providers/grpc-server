@@ -1,10 +1,10 @@
-package grpcs
+package grpcServer
 
 import (
 	"fmt"
 )
 
-const DefaultPrefix = "Grpc"
+const DefaultPrefix = "GrpcServer"
 
 type Config struct {
 	Host *string
