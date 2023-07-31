@@ -4,7 +4,7 @@ go 1.18
 
 require (
 	github.com/pkg/errors v0.9.1
-	github.com/rogeecn/atom v1.0.1
+	github.com/rogeecn/atom v1.0.2
 	github.com/rogeecn/atom-addons/providers/log v0.0.0-20230619103917-2f2bd26c1555
 	google.golang.org/grpc v1.56.0
 )
