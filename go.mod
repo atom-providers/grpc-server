@@ -5,7 +5,7 @@ go 1.18
 require (
 	github.com/atom-providers/log v0.0.0-20230801024233-a65b67115343
 	github.com/pkg/errors v0.9.1
-	github.com/rogeecn/atom v1.0.3
+	github.com/rogeecn/atom v1.0.4
 	google.golang.org/grpc v1.56.0
 )
 
@@ -26,11 +26,11 @@ require (
 	go.uber.org/dig v1.17.0 // indirect
 	go.uber.org/multierr v1.11.0 // indirect
 	go.uber.org/zap v1.24.0 // indirect
-	golang.org/x/net v0.11.0 // indirect
+	golang.org/x/net v0.12.0 // indirect
 	golang.org/x/sys v0.10.0 // indirect
 	golang.org/x/text v0.11.0 // indirect
 	google.golang.org/genproto v0.0.0-20230410155749-daa745c078e1 // indirect
-	google.golang.org/protobuf v1.30.0 // indirect
+	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/ini.v1 v1.67.0 // indirect
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
